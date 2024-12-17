@@ -1,8 +1,8 @@
-streamlit
-numpy
-pandas
+streamlit==1.41.0
+numpy==2.0.2
+pandas==2.2.3
 os
 warnings
-matplotlib
-seaborn
+matplotlib==3.9.3
+seaborn==0.13.2
 re
